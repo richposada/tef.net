@@ -56,5 +56,10 @@ namespace TEF.Controllers
         {
             return View("Fish2015");
         }
+
+        public ActionResult Golf()
+        {
+            return View("Golf");
+        }
     }
 }
