@@ -339,6 +339,9 @@
     <Content Include="Images\silverbullet.png" />
     <Content Include="Images\style.css" />
     <Content Include="Images\style_saved.css" />
+    <Content Include="Images\tefgolf1.jpg" />
+    <Content Include="Images\tefgolf2.jpg" />
+    <Content Include="Images\tefgolf3.jpg" />
     <Content Include="Images\TEF_Board.jpg" />
     <Content Include="Images\tef_difference.jpg" />
     <Content Include="Images\TEF_Rooftop.jpg" />
@@ -998,6 +1001,7 @@
     <Content Include="Scripts\kendo\js\kendo.virtuallist.min.js.map" />
     <Content Include="Scripts\kendo\js\kendo.window.min.js.map" />
     <Content Include="Views\Home\Golf.cshtml" />
+    <Content Include="Views\Home\Fish2016.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
